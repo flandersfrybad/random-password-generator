@@ -1,0 +1,40 @@
+body {
+    padding: 22px;
+    background: whitesmoke;
+    text-align: left;
+}
+h3 {
+    color: darkgrey;
+}
+#generate {
+    font-weight: bold;
+    background: lightcoral;
+    border-radius: 6px;
+    height: 44px;
+    margin-top : 5px;
+}
+#count {
+    font-weight: bold;
+    text-align: center;
+    background: lightcoral;
+    border-radius: 6px;
+    height: 37px;
+    margin-top : 25px 0;
+    margin-left: 33px;
+}
+.password {
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    width: 304px;
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+    margin-top: 22px;
+    align-items: center;
+    text-align: center;
+}
+.random {
+    font-style: italic;
+    color: lightsalmon;
+}
